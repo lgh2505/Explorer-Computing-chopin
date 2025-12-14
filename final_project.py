@@ -27,7 +27,7 @@ import pandas as pd
 
 "**2. 오브젝트 설명**"
 "- 우주선 오브제는 플레이어처럼 투사체를 발사하며, 폭탄에 닿으면 HP가 감소한다."
-st.image("./images/시작 화면.png", caption="Object Image")
+st.image("./images/start_screen.png", caption="Object Image")
 
 "**3. zoom 기능**"
 "- 마우스 우클릭으로 확대가 가능하다."
@@ -35,11 +35,11 @@ st.image("./images/zoom_in.png", caption="Zoom_in Image")
 
 "**4. 1인칭-3인칭 시점 전환 기능**"
 "- 마우스 휠을 내리면 3인칭으로 시점이 전환되며, 휠을 올리면 1인칭으로 시점이 전환된다."
-st.image("./images/3인칭 시점.png", caption="Third-Person View Image")
+st.image("./images/Third_person_View.png", caption="Third-Person View Image")
 
 "**5. 미니맵 기능**"
 "- 미니맵을 통해 플레이어의 위치와 과녁의 위치를 확인할 수 있다."
-st.image("./images/미니맵.png", caption="minimap Image")
+st.image("./images/minimap.png", caption="minimap Image")
 
 "**6. HP바**"
 "- 내 HP와 적의 HP를 확인할 수 있다."
