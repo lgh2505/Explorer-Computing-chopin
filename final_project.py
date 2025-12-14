@@ -35,7 +35,7 @@ st.image("./images/zoom_in.png", caption="Zoom_in Image")
 
 "**4. 1인칭-3인칭 시점 전환 기능**"
 "- 마우스 휠을 내리면 3인칭으로 시점이 전환되며, 휠을 올리면 1인칭으로 시점이 전환된다."
-st.image("./images/Third_person_View.png", caption="Third-Person View Image")
+st.image("./images/Third_Person_View.png", caption="Third-Person View Image")
 
 "**5. 미니맵 기능**"
 "- 미니맵을 통해 플레이어의 위치와 과녁의 위치를 확인할 수 있다."
